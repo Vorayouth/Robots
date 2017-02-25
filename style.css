@@ -1,0 +1,43 @@
+body{
+	font-family: 'Roboto', sans-serif;
+	background-color: white
+	;
+}
+h1{
+	font-size: 600%;
+	border-style: solid;
+	margin: 50px;
+	margin-left: 35%;
+	margin-right: 35%;
+	border-color: white;
+}
+	a:hover{
+		color: red;
+}
+
+#nav {
+	background-color: #aaaaaa;
+	height: 30px;
+	text-align: left;
+	padding: 0px;
+}
+#nav li {
+
+	display:inline-block;
+	padding: 0px;
+  margin: 0px;
+}
+#nav li a{
+
+	height: 30px;
+	line-height: 30px;
+	display:block;
+	float:left;
+
+
+
+}
+#nav li a:hover {
+	background-color: lightgrey;
+
+}
